@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@instantdb/react": "^0.7.10",
+    "@tldraw/tldraw": "2.0.0-beta.4",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
